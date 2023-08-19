@@ -20,3 +20,23 @@ Always eager to learn and take on new challenges in the tech world.</h3>
 </p>
 
 
+###
+
+
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-ali&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="islam-ali" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=islam-ali&show_icons=true&locale=en&theme=tokyonight" alt="islam-ali" />
+</div>
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=islam-ali&theme=tokyonight" alt="islam-ali" /></div>
+
+<div 
+  align="center"
+  href="https://stardev.io/developers/islam-ali">
+<img alt="Check out islam-ali&apos;s profile on stardev.io" src="https://stardev.io/developers/islam-ali/badge/languages/country.svg" />
+</div>
