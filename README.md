@@ -57,7 +57,6 @@ Always eager to learn and take on new challenges in the tech world.</h3>
 
 
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-ali&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="islam-ali" />
 </div>
