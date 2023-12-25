@@ -4,7 +4,7 @@ Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-ali&label=Profile%20views&color=0e75b6&style=flat" alt="islam-ali" /> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **Front End Developer and related technologies**
 
